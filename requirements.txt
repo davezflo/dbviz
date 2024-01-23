@@ -1,0 +1,5 @@
+langchain
+langchain-community
+llama-cpp-python
+psycopg2
+matplotlib
